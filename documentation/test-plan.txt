@@ -1,0 +1,24 @@
+TEST PLAN 10 
+
+Overview: Test the functionality of Duel Duo Game. 
+
+Links:
+http://localhost:4000/
+
+Test Criteria:
+    - The 'See All Bots' button should display all bots.
+    - Lists the correct amount of 'Wins' and 'Losses' after each duel. 
+    - The 'Draw' button is functional by showing five options of bots to choose from.
+    - Be able to add two bots to 'Your Duo' after clicking 'Add to Duo' on bot's information form. 
+    - The 'Duel!' button will allow bots chosen and computer's bots to duel.
+    - After duel, present status of 'You won!' or 'You lost.'
+
+Entry Criteria:
+    - Test criteria provided 
+    - Running version provided for testing
+    
+Exit Criteria:
+    - All tests are passing
+
+Other Details:
+    - Should be able to run on any modern browser.

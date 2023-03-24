@@ -1,0 +1,13 @@
+TEST CASE 1 for TEST PLAN 10
+
+Description:
+This test will verify that the 'See All Bots' Button is functional.
+
+Steps:
+    - Should have working internet to open any browser 
+    - Run http://localhost:4000/ 
+    - Duel Duo's main page successfully loaded.
+    - Locate and click on the blue button reading 'See All Bots'.
+
+Test Postconditions:
+    - No bot information forms were visible on home screen upon clicking 'See All Bots' button.
